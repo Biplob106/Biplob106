@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Biplob106/Biplob106/main/github-banner.png" alt="Biplob Sutra Dhar — Full-Stack Web Developer" width="100%"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Biplob Sutra Dhar</h1>
 
 <h3 align="center">Full-Stack Web Developer</h3>
@@ -18,6 +22,10 @@
 </p>
 
 <p align="center">
+  📍 Dhaka, Bangladesh &nbsp;·&nbsp; 📧 biplobsd106@gmail.com &nbsp;·&nbsp; 📞 +880 1782-311251
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=biplob106&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </p>
 
@@ -32,6 +40,17 @@
 - 🌱 Currently deepening **TypeScript**, **Node.js**, and **system design**
 - 💬 Ask me about **PHP · Laravel · React · JavaScript · REST APIs**
 - ✍️ I write technical articles and enjoy sharing what I learn
+
+---
+
+## 🔥 Current Activities
+
+- 🛠️ I'm working on **Sohayika**, a Bengali exam preparation platform (Laravel 12 + MySQL + React)
+- 🏥 I recently shipped **Niramoy**, a healthcare appointment platform (Next.js + Express + MongoDB + Stripe)
+- 🌱 I'm currently exploring **TypeScript**, **Next.js App Router**, and **system design**
+- 🤖 I'm integrating **AI-assisted workflows** (Claude Code, GitHub Copilot, Cursor) into my daily development
+- ✍️ I'm writing technical articles on **Hashnode** about Laravel and React
+- 🤝 I'm open to collaborating on **full-stack web projects**
 
 ---
 
